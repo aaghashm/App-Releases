@@ -1,2 +1,2 @@
 # App-Releases
-I Release Open Source Apps Here!
+I Release My Apps Here!
